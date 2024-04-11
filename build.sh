@@ -12,5 +12,3 @@ if [[ $CREATE_SUPERUSER ]];
 then
   python xyzCompany/manage.py createsuperuser --no-input
 fi
-
-test@django123
