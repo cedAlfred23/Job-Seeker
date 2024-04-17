@@ -3,11 +3,9 @@
 Job seeker is a job alert platform built with Django that helps graduates find job opportunities. It provides personalized job recommendations and allows users to search for relevant job listings.
 
 ## Screenshots
-![Job listing](https://drive.google.com/file/d/1je7oocoLUK3FZ794Kb5yTbPxaOv8Vhtj/view?usp=sharing)
+![Job listing](./media/company_logos/1.jpg)
 
-![Categories](https://myoctocat.com/assets/images/base-octocat.svg)
-![Image](https://drive.google.com/file/d/1ebB4SGjCplGli0VBEzhDiO4YAgIPwEJG/view?usp=sharing)
-![LocalImage](./media/company_logos/com-logo-1.jpg)
+![Categories](./media/company_logos/2.jpg)
 
 ## Installation
 
